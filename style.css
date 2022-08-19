@@ -1,0 +1,21 @@
+.heading{
+    font-size: 25px;
+    width:100%;
+    margin: 0px;
+    font-style:oblique;
+    
+}
+body{
+    background-size: cover;
+}
+
+#name{
+    font-size: x-large;
+    font-style: oblique;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 18px;
+    box-shadow: 5x 5x 5x white;
+}
